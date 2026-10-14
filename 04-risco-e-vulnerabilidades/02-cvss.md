@@ -1,8 +1,10 @@
-# CVSS — Common Vulnerability Scoring System
+# 📊 CVSS — Common Vulnerability Scoring System
 
 Avalia a gravidade de uma vulnerabilidade com uma nota de **0 a 10**: perto de 0 é pouco preocupante, perto de 10 é crítico.
 
-## Exemplo de divulgação responsável
+---
+
+## 📢 Exemplo de divulgação responsável
 
 1. O pesquisador descobre a falha.
 2. Avisa a empresa.
@@ -10,7 +12,9 @@ Avalia a gravidade de uma vulnerabilidade com uma nota de **0 a 10**: perto de 0
 4. A empresa tem até 90 dias para corrigir.
 5. Depois de 90 dias, a CVE é publicada para que todos tomem cuidado.
 
-## Grupos de métricas
+---
+
+## 🎚️ Grupos de métricas
 
 | Grupo | O que mede |
 |---|---|

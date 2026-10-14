@@ -1,6 +1,6 @@
-# Perfilamento e testes de rede
+# 📡 Perfilamento e testes de rede
 
-## Perfilamento de rede
+## 📈 Perfilamento de rede
 
 Criar um perfil do tráfego do dia a dia da empresa para detectar anomalias, que podem indicar uma invasão.
 
@@ -11,7 +11,9 @@ Criar um perfil do tráfego do dia a dia da empresa para detectar anomalias, que
 | Portas usadas | Lista de processos TCP/UDP disponíveis para aceitar dados. |
 | Espaço de endereço de ativo crítico | IPs ou localização lógica de sistemas e dados essenciais. |
 
-## Teste de vulnerabilidade de rede
+---
+
+## 🧪 Teste de vulnerabilidade de rede
 
 A maioria das organizações se conecta à rede pública, então testes periódicos de segurança são essenciais.
 

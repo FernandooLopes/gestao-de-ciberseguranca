@@ -1,6 +1,6 @@
-# STIX, TAXII, MISP e plataformas de inteligência de ameaças
+# 🔗 STIX, TAXII, MISP e plataformas de inteligência de ameaças
 
-## Padrões de compartilhamento
+## 🤝 Padrões de compartilhamento
 
 | Sigla | Papel |
 |---|---|
@@ -9,7 +9,9 @@
 | **CybOX** | Modelo de dados que descrevia eventos observáveis (logs, pacotes, processos). Hoje faz parte do STIX. |
 | **MISP** | Plataforma onde várias organizações trocam dados em STIX e outros formatos. |
 
-## Plataformas de inteligência de ameaças (TIP)
+---
+
+## 🧠 Plataformas de inteligência de ameaças (TIP)
 
 Sistemas que centralizam informações de ataques e ameaças vindas de várias fontes e as transformam em dados mais fáceis de entender para os analistas.
 
@@ -19,6 +21,8 @@ Tipos de informação:
 - **TTP (Táticas, Técnicas e Procedimentos):** como os atacantes pensam e agem.
 - **Reputação:** confiabilidade de domínios, IPs etc.
 
-## Honeypot
+---
+
+## 🍯 Honeypot
 
 Rede ou sistema falso criado para atrair e capturar invasores e observar o que fazem.

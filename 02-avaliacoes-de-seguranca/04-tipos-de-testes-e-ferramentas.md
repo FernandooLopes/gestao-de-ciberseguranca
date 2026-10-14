@@ -1,6 +1,6 @@
-# Tipos de testes de rede e ferramentas
+# 🧪 Tipos de testes de rede e ferramentas
 
-## Tipos de teste
+## 🧫 Tipos de teste
 
 | Teste | Descrição |
 |---|---|
@@ -12,11 +12,15 @@
 | **Verificação de integridade** | Monitora os hashes dos arquivos em tempo real. |
 | **Detecção de vírus/malware** | O antivírus detecta malware em atividade. |
 
-## Aplicando os resultados
+---
+
+## ✅ Aplicando os resultados
 
 Corrigir as falhas encontradas (fechar portas, trocar senhas) e tomar decisões conforme as políticas da empresa e o melhor custo-benefício.
 
-## Ferramentas
+---
+
+## 🧰 Ferramentas
 
 | Ferramenta | Para que serve |
 |---|---|

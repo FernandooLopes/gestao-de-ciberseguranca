@@ -1,4 +1,4 @@
-# Papéis na gestão de dados
+# 👥 Papéis na gestão de dados
 
 Quem faz o quê quando uma organização coleta, guarda e trata dados.
 

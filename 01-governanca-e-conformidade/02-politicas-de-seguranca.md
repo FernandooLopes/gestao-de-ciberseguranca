@@ -1,28 +1,30 @@
-# Políticas de segurança
+# 📜 Políticas de segurança
 
-## Três níveis de política
+## 🧱 Três níveis de política
 
-### Política de segurança digital (cibersegurança)
+### 🛡️ Política de segurança digital (cibersegurança)
 É a teoria do que precisa acontecer na prática. Exemplos:
 - Proteger os dados contra acesso não autorizado.
 - Exigir senhas fortes.
 - Ter controle de acesso, backup, criptografia etc.
 
-### Política específica do sistema (ex.: firewall)
+### 🔥 Política específica do sistema (ex.: firewall)
 Define o que pode ou não entrar na rede ou nos sistemas. Exemplos:
 - Bloquear portas não utilizadas.
 - Permitir acesso apenas a serviços essenciais.
 - Restringir IPs externos.
 - Monitorar tráfego suspeito.
 
-### Política específica do problema (ex.: uso aceitável de e-mail e internet)
+### 📧 Política específica do problema (ex.: uso aceitável de e-mail e internet)
 Parecida com a do firewall, mas aplicada ao comportamento do usuário. Exemplos:
 - Bloquear e-mails com links suspeitos (phishing).
 - Proibir AnyDesk ou TeamViewer sem autorização.
 - Restringir sites não relacionados ao trabalho.
 - Monitorar e registrar atividades online.
 
-## Tipos de políticas
+---
+
+## 📋 Tipos de políticas
 
 | Política | O que define |
 |---|---|

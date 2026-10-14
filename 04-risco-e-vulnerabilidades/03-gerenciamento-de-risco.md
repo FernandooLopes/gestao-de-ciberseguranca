@@ -1,8 +1,10 @@
-# Gerenciamento de risco
+# ⚠️ Gerenciamento de risco
 
 Envolve selecionar e especificar controles de segurança para uma organização.
 
-## Etapas
+---
+
+## 🔄 Etapas
 
 1. **Identificação do risco:** reconhecer o risco.
 2. **Avaliação do risco:** medir o risco, por exemplo com as métricas do CVSS.
@@ -10,7 +12,9 @@ Envolve selecionar e especificar controles de segurança para uma organização.
 4. **Implementação da resposta:** aplicar o que foi planejado.
 5. **Monitoramento e avaliação:** monitorar o local do problema para ver se ele volta ou se a correção falhou.
 
-## Quatro estratégias de tratamento
+---
+
+## 🧭 Quatro estratégias de tratamento
 
 | Estratégia | Ideia | Exemplo |
 |---|---|---|
@@ -19,7 +23,9 @@ Envolve selecionar e especificar controles de segurança para uma organização.
 | **Transferência** | Passar o cuidado do risco a outra organização. | Contratar uma empresa especialista. |
 | **Aceitação (retenção)** | Aceitar o risco e suas consequências quando o impacto é baixo ou mitigar custa caro demais. | Risco baixo com custo de mitigação alto. |
 
-## Tipos de risco
+---
+
+## 🚦 Tipos de risco
 
 | Tipo | Descrição |
 |---|---|
@@ -27,7 +33,9 @@ Envolve selecionar e especificar controles de segurança para uma organização.
 | **Risco baixo** | Cuidado devido (*due care*): o risco ainda existe, mas etapas razoáveis reduzem a perda possível. |
 | **Risco aceitável** | Diligência devida (*due diligence*): medidas razoáveis eliminam parte do risco e vários controles evitam perdas. |
 
-## Conceitos
+---
+
+## 📖 Conceitos
 
 | Conceito | Definição |
 |---|---|

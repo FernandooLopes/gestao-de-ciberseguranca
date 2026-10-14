@@ -1,6 +1,6 @@
-# Ética e cibercrime
+# ⚖️ Ética e cibercrime
 
-## Ética de um especialista em segurança
+## 🧭 Ética de um especialista em segurança
 
 | Abordagem | Ideia central |
 |---|---|
@@ -8,7 +8,9 @@
 | **Direitos** | Define o que se pode ou não fazer diante de duas escolhas, respeitando a decisão do outro: direito à verdade, privacidade, segurança e à aplicação justa das leis. |
 | **Bem comum** | Propõe ações que beneficiam a todos. |
 
-## Dez mandamentos da ética em informática
+---
+
+## 🔟 Dez mandamentos da ética em informática
 
 1. Não usarás um computador para prejudicar outras pessoas.
 2. Não interferirás no trabalho de computação de outra pessoa.
@@ -21,7 +23,9 @@
 9. Pensarás nas consequências dos sistemas que estás projetando.
 10. Usarás o computador de forma que assegure respeito e consideração pelos outros.
 
-## Cibercrime
+---
+
+## 💻 Cibercrime
 
 O crime digital se divide em três categorias:
 

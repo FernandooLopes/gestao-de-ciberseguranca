@@ -1,14 +1,17 @@
-# Gestão de Cibersegurança - Cisco
+# 🛡️ Gestão de Cibersegurança - Cisco
 
 Minhas anotações de estudo sobre gestão de cibersegurança, organizadas por tema: governança, avaliações de segurança, inteligência de ameaças e gerenciamento de risco.
 
+> [!NOTE]
 > Material de estudo em português, escrito com as minhas palavras. Pode conter simplificações. Se encontrar algum erro, abra uma issue.
 
 **Origem:** notas feitas durante o curso *Gerenciamento de Ameaças Cibernéticas* (Fatec Bauru), com material da Cisco. Projeto independente, sem afiliação com a Fatec ou a Cisco.
 
-## Índice
+---
 
-### 1\. Governança e conformidade
+## 📚 Índice
+
+### 1\. 🏛️ Governança e conformidade
 
 |Tópico|Arquivo|
 |-|-|
@@ -21,7 +24,7 @@ Minhas anotações de estudo sobre gestão de cibersegurança, organizadas por t
 |ISO 27000 e a tríade CIA|[07-iso-27000](01-governanca-e-conformidade/07-iso-27000.md)|
 |Framework NICE (força de trabalho)|[08-nice-framework](01-governanca-e-conformidade/08-nice-framework.md)|
 
-### 2\. Avaliações de segurança
+### 2\. 🔍 Avaliações de segurança
 
 |Tópico|Arquivo|
 |-|-|
@@ -31,14 +34,14 @@ Minhas anotações de estudo sobre gestão de cibersegurança, organizadas por t
 |Tipos de testes e ferramentas|[04-tipos-de-testes-e-ferramentas](02-avaliacoes-de-seguranca/04-tipos-de-testes-e-ferramentas.md)|
 |Fases do pentest|[05-fases-do-pentest](02-avaliacoes-de-seguranca/05-fases-do-pentest.md)|
 
-### 3\. Inteligência de ameaças
+### 3\. 🕵️ Inteligência de ameaças
 
 |Tópico|Arquivo|
 |-|-|
 |Comunidades de inteligência|[01-comunidades](03-inteligencia-de-ameacas/01-comunidades.md)|
 |STIX, TAXII, MISP e TIPs|[02-stix-taxii-misp-tip](03-inteligencia-de-ameacas/02-stix-taxii-misp-tip.md)|
 
-### 4\. Risco e vulnerabilidades
+### 4\. ⚠️ Risco e vulnerabilidades
 
 |Tópico|Arquivo|
 |-|-|
@@ -46,7 +49,9 @@ Minhas anotações de estudo sobre gestão de cibersegurança, organizadas por t
 |CVSS|[02-cvss](04-risco-e-vulnerabilidades/02-cvss.md)|
 |Gerenciamento de risco|[03-gerenciamento-de-risco](04-risco-e-vulnerabilidades/03-gerenciamento-de-risco.md)|
 
-## Sobre mim
+---
+
+## 👤 Sobre mim
 
 Fernando Rafael Lopes Filho
 

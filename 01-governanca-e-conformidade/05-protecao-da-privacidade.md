@@ -1,4 +1,4 @@
-# Proteção da privacidade
+# 🔏 Proteção da privacidade
 
 | Lei | Resumo |
 |---|---|
@@ -11,7 +11,9 @@
 | **HIPAA** | Proteção dos dados físicos e eletrônicos de pacientes (área da saúde). |
 | **SB 1386 (Califórnia)** | Quem foi afetado por um ataque tem direito de saber, por exemplo se seus dados vazaram numa invasão à empresa. |
 
-## Exceções do FOIA (casos em que a informação pode ser negada)
+---
+
+## 🚫 Exceções do FOIA (casos em que a informação pode ser negada)
 
 1. Segurança nacional
 2. Regras internas da agência
@@ -23,11 +25,15 @@
 8. Dados de instituições financeiras
 9. Dados geológicos sobre poços e recursos naturais
 
-## Política de privacidade
+---
+
+## 📄 Política de privacidade
 
 Documento que explica por que e quais dados do usuário serão coletados, para que ele concorde (ou não).
 
-## PIA — Avaliação de Impacto da Privacidade
+---
+
+## 🕵️ PIA — Avaliação de Impacto da Privacidade
 
 Verifica se a empresa segue as normas (como a LGPD). Etapas:
 

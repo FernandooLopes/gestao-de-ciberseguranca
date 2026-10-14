@@ -1,4 +1,4 @@
-# Doze domínios de segurança digital
+# 🧩 Doze domínios de segurança digital
 
 | # | Domínio | Resumo |
 |---|---|---|
@@ -15,7 +15,9 @@
 | 11 | **Gerenciamento de continuidade dos negócios** | Capacidade de proteger e recuperar dados e atividades (ex.: storage de backup caso o principal caia). |
 | 12 | **Conformidade** | Garantir aderência às normas e políticas de segurança. |
 
-## Avaliação de risco: qualitativa x quantitativa
+---
+
+## ⚖️ Avaliação de risco: qualitativa x quantitativa
 
 - **Qualitativa:** "este servidor está vulnerável por causa da porta X".
 - **Quantitativa:** "este servidor tem 80% de chance de ser invadido".

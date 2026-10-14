@@ -1,5 +1,6 @@
-# Utilitários de diagnóstico de linha de comando
+# ⌨️ Utilitários de diagnóstico de linha de comando
 
+> [!NOTE]
 > Os exemplos de saída abaixo usam valores fictícios (faixas de IP reservadas para documentação) para não expor nenhuma rede real.
 
 | Comando | Para que serve | Equivalente Linux/Mac |
@@ -15,7 +16,9 @@
 | `netcat` | Coleta informações de conexões TCP/UDP; varredura de portas, monitoramento, captura de banner, cópia de arquivos | `nc` |
 | `hping` | Monta e analisa pacotes; varredura de portas, descoberta de caminho, impressão digital do SO, teste de firewall | `hping3` |
 
-## Exemplos
+---
+
+## 💡 Exemplos
 
 ### ipconfig
 ```text
