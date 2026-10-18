@@ -53,5 +53,5 @@ Minhas anotações de estudo sobre gestão de cibersegurança, organizadas por t
 
 ## 👤 Sobre mim
 
-Fernando Rafael Lopes Filho
+Fernando Rafael Lopes Filho\
 Estudante e entusiasta de Cibersegurança
